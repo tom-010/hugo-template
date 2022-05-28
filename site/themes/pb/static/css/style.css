@@ -124,3 +124,13 @@ img {
 .centered {
     text-align: center;
 }
+
+.jumbotron {
+    background-color: #eee;
+    padding: 1em;
+    border: 5px solid #ddd;
+}
+
+a.summary {
+    color: black;
+}
